@@ -1,3 +1,3 @@
-cracking the code interview
+cracking the coding interview
 ===========================
-craking the code 책의 연습문제를 매주 챕터별 2문제씩 푼다.
+craking the coding interview 책의 연습문제를 매주 챕터별 2문제씩 푼다.
