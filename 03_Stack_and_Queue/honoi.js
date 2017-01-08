@@ -1,4 +1,4 @@
-e strict';
+'use strict';
 
 function stepsToSolveHanoiT(height, srcP, desP, bufferP) {
   if (height >= 1) {
